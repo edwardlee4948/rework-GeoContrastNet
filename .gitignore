@@ -1,0 +1,8 @@
+.venv
+data/datasets/*
+
+.cache
+# Ignore dynaconf secret files
+.secrets.*
+
+/__pycache__

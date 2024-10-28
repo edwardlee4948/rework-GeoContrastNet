@@ -1,0 +1,18 @@
+--index-url https://download.pytorch.org/whl/cu118
+torch==2.2.1
+torchaudio==2.2.1
+torchvision==0.17.1
+torchdata==0.7.1
+
+-f https://data.dgl.ai/wheels/torch-2.2/cu118/repo.html
+dgl==2.4.0
+
+--index-url https://pypi.org/simple 
+wget==3.2
+requests==2.32.3
+pandas==2.2.3
+pydantic==2.9.2
+numpy==1.26.4
+pyyaml==6.0.2
+scikit-learn==1.5.2
+seaborn==0.13.2
